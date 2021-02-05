@@ -1,0 +1,28 @@
+
+
+.title {
+  text-align: center;
+}
+
+
+.plots {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+
+}
+
+
+.description {
+  text-align: center;
+  line-height: 150px;
+}
+
+.comparisons-title {
+  padding: 50px;
+}
+
+.comparison-plot {
+  padding-left: 125px;
+
+}
